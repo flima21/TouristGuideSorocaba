@@ -21,6 +21,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ShoppingPage"
+            android:exported="false" />
+        <activity
+            android:name=".ZooPage"
+            android:exported="false" />
+        <activity
+            android:name=".MuseuPage"
+            android:exported="false" />
     </application>
 
 </manifest>
