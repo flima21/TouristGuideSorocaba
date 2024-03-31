@@ -67,11 +67,12 @@
                 android:layout_gravity="fill"
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="5dp"
-                android:background="@drawable/ic_launcher_background"
+                android:background="@mipmap/zoo"
                 android:foregroundGravity="fill"
+                android:minHeight="300dp"
                 android:scaleType="fitStart"
                 android:textAlignment="viewStart"
-                tools:srcCompat="@tools:sample/avatars" />
+                tools:srcCompat="@mipmap/zoo" />
 
             <TextView
                 android:id="@+id/textView3"

@@ -40,7 +40,7 @@ public class ShoppingPage extends AppCompatActivity {
         });
 
         buttonMapa.setOnClickListener(v -> {
-            startActivity(interaction.getNavigation("Rua+Araldo+Rodrigues"));
+            startActivity(interaction.getNavigation("Avenida+Professora+Izoraida+Marques+Peres"));
         });
 
         buttonCall.setOnClickListener(v->{

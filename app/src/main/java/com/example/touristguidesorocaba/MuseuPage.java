@@ -40,7 +40,7 @@ public class MuseuPage extends AppCompatActivity {
         });
 
         buttonMapa.setOnClickListener(v -> {
-            startActivity(interaction.getNavigation("Rua+Araldo+Rodrigues"));
+            startActivity(interaction.getNavigation("Avenida+Tres+de+Marco"));
         });
 
         buttonCall.setOnClickListener(v->{

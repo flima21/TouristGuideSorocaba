@@ -38,7 +38,7 @@ public class ZooPage extends AppCompatActivity {
         });
 
         buttonMapa.setOnClickListener(v -> {
-            startActivity(interaction.getNavigation("Rua+Araldo+Rodrigues"));
+            startActivity(interaction.getNavigation("Rua+Teodoro+Kaisel+,+883"));
         });
 
         buttonCall.setOnClickListener(v->{
